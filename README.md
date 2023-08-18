@@ -39,8 +39,8 @@ https://github.com/MonaAdel2/Cooky/assets/96449268/0ec865ab-fa09-46bf-93e8-1d449
 $ git clone https://github.com/MonaAdel2/Cooky
 ```
 
-**Dependencies**
-# Install the following dependencies
+# Dependencies
+**Install the following dependencies**</br></br>
 Volley API:
 ```bash
     implementation 'com.android.volley:volley:1.2.1'
